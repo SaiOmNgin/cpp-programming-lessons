@@ -1,1 +1,2 @@
-# cpp-programming-lessons
+# C++ programming lessons
+Let's explore the art of programming
