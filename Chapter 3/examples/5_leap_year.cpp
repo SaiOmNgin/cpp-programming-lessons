@@ -16,6 +16,10 @@ int main() {
         cout<<year<<" is a leap year. "<<endl;        
     } 
     else
+<<<<<<< HEAD
         cout << year << " is a leap year." << endl;
+=======
+            cout << year << " is a leap year." << endl;
+>>>>>>> fe6bbeabca111ab49b85f2fe8165bfcd4eb3afbb
     return 0;
 }
