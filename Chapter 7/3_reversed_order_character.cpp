@@ -6,13 +6,13 @@ int main() {
     
     for (int i = 0; i < 5; i++) 
     {
-        cout << "Enter the value for index " << i << ": ";
+        cout << "Enter characters at address" << i << ": ";
         cin >> letter[i];
     }
 
     for (int i = 4; i >= 0; i--) 
     {
-        cout << "Value of array index " << i << " is " << letter[i] << endl;
+        cout << "Reversed ordered Characters " << i << " is " << letter[i] << endl;
     }
 
     return 0;
