@@ -9,7 +9,5 @@ int main() {
     result_top = (a*d)+(c*b);
     result_bottom = b*d;
     cout<<"Sum of fraction numbers is "<<result_top<<"/"<<result_bottom<<endl;
-
-
     return 0;
 }

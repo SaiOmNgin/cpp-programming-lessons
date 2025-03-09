@@ -5,4 +5,5 @@ int main() {
     cout<<num<<endl;
     cout<<num+10<<endl;
     cout<<num+9<<endl;
+    return 0;
 }
