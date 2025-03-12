@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../myat-thar-linn-web-developer/Fairway Technology/Course"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iomanip": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
